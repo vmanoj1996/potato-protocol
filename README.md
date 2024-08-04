@@ -1,5 +1,5 @@
 # potato-protocol
-A quick recipe for transferring structured data from Arduino to host PC. It is similar to MAVLink
+A quick recipe for transferring structured data from Arduino to host PC. It is similar to MAVLink.
 
 **Credits**:
 

@@ -1,0 +1,1 @@
+g++ crc16.cpp main.cpp -o main.out

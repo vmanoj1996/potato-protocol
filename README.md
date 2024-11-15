@@ -1,5 +1,5 @@
 # potato-protocol
-A quick recipe for transferring structured data from Arduino to host PC. It is similar to MAVLink.
+A quick recipe for transferring structured data from embedded computers to host PC (or vice versa). It is similar to MAVLink.
 
 1. Upload this code into teensy 4.1 or any other arduino board.
 2. Check if the arduino board prints gibberish on serial monitor. Close the serial monitor.
